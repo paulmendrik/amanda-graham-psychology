@@ -1,0 +1,43 @@
+[
+  {
+    "name": "prismic-preview",
+    "path": "/preview",
+    "component": "/Users/paul/amanda-graham-psychology/.nuxt/prismic/pages/preview.vue",
+    "_name": "_d9c457c8"
+  },
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/paul/amanda-graham-psychology/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_91fb92a2"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/paul/amanda-graham-psychology/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_497f2cf4"
+  },
+  {
+    "name": "praana",
+    "path": "/praana",
+    "component": "/Users/paul/amanda-graham-psychology/pages/praana.vue",
+    "chunkName": "pages/praana",
+    "_name": "_7963da5f"
+  },
+  {
+    "name": "blog-uid",
+    "path": "/blog/:uid",
+    "component": "/Users/paul/amanda-graham-psychology/pages/blog/_uid.vue",
+    "chunkName": "pages/blog/_uid",
+    "_name": "_37f244c4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/paul/amanda-graham-psychology/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7a95be90"
+  }
+]
