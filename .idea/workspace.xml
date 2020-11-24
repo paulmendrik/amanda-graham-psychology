@@ -2,12 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f02d56-5a0a-44fd-9619-6f3ed0f23f6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/blog/_uid.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/blog/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contact.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/praana.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins/prismic-vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/0d089db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/92f5e11.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/b868619.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/client/e683370.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/client.manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/index.spa.html" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/index.spa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/pages/blog/_uid.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/pages/blog/_uid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/pages/blog/_uid.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/pages/blog/_uid.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/pages/blog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/pages/blog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/pages/blog/index.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/pages/blog/index.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/dist/server/server.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/dist/server/server.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nuxt/routes.json" beforeDir="false" afterPath="$PROJECT_DIR$/.nuxt/routes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/200.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/05cd3ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/133f46c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/147180f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/1d441e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/42ca784.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/8937b8a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/906c73d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/LICENSES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/c696dc6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/cd1a1b4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/db75244.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/ea02f73.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/icon_120x120.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/icon_144x144.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/icon_152x152.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/icon_192x192.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/icon_384x384.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/icon_512x512.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/icon_64x64.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_ipad_1536x2048.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_ipadpro10_1668x2224.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_ipadpro12_2048x2732.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_ipadpro9_1536x2048.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphone6_50x1334.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphoneplus_1080x1920.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphonese_640x1136.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphonex_1125x2436.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphonexr_828x1792.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/icons/splash_iphonexsmax_1242x2688.3e961f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/manifest.4c124621.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/static/1604595204/blog/how-to-beat-self-doubt/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/static/1604595204/blog/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/static/1604595204/blog/what-is-maturity/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/static/1604595204/blog/why-do-i-feel-like-a-fraud/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/static/1604595204/contact/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/static/1604595204/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/static/1604595204/praana/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/_nuxt/static/1604595204/preview/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/how-to-beat-self-doubt/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/how-to-beat-self-doubt/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/how-to-beat-self-doubt/payload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/payload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/what-is-maturity/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/what-is-maturity/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/what-is-maturity/payload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/why-do-i-feel-like-a-fraud/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/why-do-i-feel-like-a-fraud/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/why-do-i-feel-like-a-fraud/payload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/contact/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/contact/payload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/payload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/praana/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/praana/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/praana/payload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/preview/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/preview/payload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/preview/payload.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/sw.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +100,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/plugins" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -53,6 +128,7 @@
       <workItem from="1604576858527" duration="11183000" />
       <workItem from="1604588773593" duration="3419000" />
       <workItem from="1604657202110" duration="16000" />
+      <workItem from="1606223286551" duration="106000" />
     </task>
     <servers />
   </component>

@@ -2118,12 +2118,12 @@ var Headervue_type_template_id_bd1c528e_staticRenderFns = []
 
 // CONCATENATED MODULE: ./components/Header.vue?vue&type=template&id=bd1c528e&
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/Menu.vue?vue&type=template&id=eb969e28&
-var Menuvue_type_template_id_eb969e28_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('vk-offcanvas-content',[_c('a',{on:{"click":function($event){_vm.push = true}}},[_c('vk-icon',{attrs:{"icon":"menu","ratio":"1.65"}})],1),_vm._v(" "),_c('vk-offcanvas',{attrs:{"show":_vm.push},on:{"update:show":function($event){_vm.push=$event}}},[_c('vk-offcanvas-bar',{staticClass:"uk-flex uk-flex-column"},[_c('vk-offcanvas-close',{on:{"click":function($event){_vm.push = false}}}),_vm._v(" "),_c('vk-nav',{staticClass:"uk-margin-auto-vertical",attrs:{"type":"primary","center":""}},[_c('li',{on:{"click":function($event){_vm.push = false}}},[_c('NuxtLink',{attrs:{"to":"//"}},[_vm._v("Home")])],1),_vm._v(" "),_c('li',{on:{"click":function($event){_vm.push = false}}},[_c('NuxtLink',{attrs:{"to":"/blog/"}},[_vm._v("Blog")])],1),_vm._v(" "),_c('li',{on:{"click":function($event){_vm.push = false}}},[_c('NuxtLink',{attrs:{"to":"/praana/"}},[_vm._v("Praana Wellness")])],1),_vm._v(" "),_c('li',{on:{"click":function($event){_vm.push = false}}},[_c('NuxtLink',{attrs:{"to":"/contact/"}},[_vm._v("Info & Prices")])],1)])],1)],1)],1)}
-var Menuvue_type_template_id_eb969e28_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/Menu.vue?vue&type=template&id=8f3068ec&
+var Menuvue_type_template_id_8f3068ec_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('vk-offcanvas-content',[_c('a',{on:{"click":function($event){_vm.push = true}}},[_c('vk-icon',{attrs:{"icon":"menu","ratio":"1.65"}})],1),_vm._v(" "),_c('vk-offcanvas',{attrs:{"show":_vm.push},on:{"update:show":function($event){_vm.push=$event}}},[_c('vk-offcanvas-bar',{staticClass:"uk-flex uk-flex-column"},[_c('vk-offcanvas-close',{on:{"click":function($event){_vm.push = false}}}),_vm._v(" "),_c('vk-nav',{staticClass:"uk-margin-auto-vertical",attrs:{"type":"primary","center":""}},[_c('li',{on:{"click":function($event){_vm.push = false}}},[_c('a',{attrs:{"href":"/","n":""}},[_vm._v("Home")])]),_vm._v(" "),_c('li',{on:{"click":function($event){_vm.push = false}}},[_c('a',{attrs:{"href":"/blog"}},[_vm._v("Blog")])]),_vm._v(" "),_c('li',{on:{"click":function($event){_vm.push = false}}},[_c('a',{attrs:{"href":"/praana"}},[_vm._v("Praana Wellness")])]),_vm._v(" "),_c('li',{on:{"click":function($event){_vm.push = false}}},[_c('a',{attrs:{"href":"/contact"}},[_vm._v("Info & Prices")])])])],1)],1)],1)}
+var Menuvue_type_template_id_8f3068ec_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./components/Menu.vue?vue&type=template&id=eb969e28&
+// CONCATENATED MODULE: ./components/Menu.vue?vue&type=template&id=8f3068ec&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Menu.vue?vue&type=script&lang=js&
 //
@@ -2164,8 +2164,8 @@ var Menuvue_type_template_id_eb969e28_staticRenderFns = []
 
 var Menu_component = Object(componentNormalizer["a" /* default */])(
   components_Menuvue_type_script_lang_js_,
-  Menuvue_type_template_id_eb969e28_render,
-  Menuvue_type_template_id_eb969e28_staticRenderFns,
+  Menuvue_type_template_id_8f3068ec_render,
+  Menuvue_type_template_id_8f3068ec_staticRenderFns,
   false,
   null,
   null,
@@ -2174,12 +2174,12 @@ var Menu_component = Object(componentNormalizer["a" /* default */])(
 )
 
 /* harmony default export */ var Menu = (Menu_component.exports);
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/Social.vue?vue&type=template&id=3240f88e&
-var Socialvue_type_template_id_3240f88e_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('nav',{staticClass:"navbar"},[_vm._ssrNode("<div class=\"navbar-end\">","</div>",[_c('nuxt-link',{staticClass:"navbar-item",attrs:{"to":"/"}},[_c('span',{attrs:{"uk-icon":"facebook"}})]),_vm._ssrNode(" "),_c('nuxt-link',{staticClass:"navbar-item",attrs:{"to":"/"}},[_c('span',{attrs:{"uk-icon":"twitter"}})]),_vm._ssrNode(" "),_c('nuxt-link',{staticClass:"navbar-item",attrs:{"to":"/"}},[_c('span',{attrs:{"uk-icon":"instagram"}})])],2)])}
-var Socialvue_type_template_id_3240f88e_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/Social.vue?vue&type=template&id=0496d6d8&
+var Socialvue_type_template_id_0496d6d8_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('nav',{staticClass:"navbar"},[_vm._ssrNode("<div class=\"navbar-end\"><a href=\"/\" class=\"navbar-item\"><span uk-icon=\"facebook\"></span></a> <a href=\"/\" class=\"navbar-item\"><span uk-icon=\"twitter\"></span></a> <a href=\"/\" class=\"navbar-item\"><span uk-icon=\"instagram\"></span></a></div>")])}
+var Socialvue_type_template_id_0496d6d8_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./components/Social.vue?vue&type=template&id=3240f88e&
+// CONCATENATED MODULE: ./components/Social.vue?vue&type=template&id=0496d6d8&
 
 // CONCATENATED MODULE: ./node_modules/babel-loader/lib??ref--2-0!./node_modules/vue-loader/lib??vue-loader-options!./components/Social.vue?vue&type=script&lang=js&
 //
@@ -2213,8 +2213,8 @@ var Socialvue_type_template_id_3240f88e_staticRenderFns = []
 
 var Social_component = Object(componentNormalizer["a" /* default */])(
   components_Socialvue_type_script_lang_js_,
-  Socialvue_type_template_id_3240f88e_render,
-  Socialvue_type_template_id_3240f88e_staticRenderFns,
+  Socialvue_type_template_id_0496d6d8_render,
+  Socialvue_type_template_id_0496d6d8_staticRenderFns,
   false,
   null,
   null,

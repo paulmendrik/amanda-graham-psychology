@@ -15,12 +15,12 @@ var staticRenderFns = []
 
 // CONCATENATED MODULE: ./pages/blog/index.vue?vue&type=template&id=8a4315a6&
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/Posts.vue?vue&type=template&id=7bed1d58&
-var Postsvue_type_template_id_7bed1d58_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"card"},[_vm._ssrNode("<div class=\"card-image\">","</div>",[_c('prismic-image',{attrs:{"field":_vm.post.data.image}})],1),_vm._ssrNode(" "),_vm._ssrNode("<div class=\"card-content\">","</div>",[_vm._ssrNode("<header>","</header>",[_c('prismic-rich-text',{staticClass:"title",attrs:{"field":_vm.post.data.title}}),_vm._ssrNode(" "),_c('prismic-rich-text',{staticClass:"subtitle",attrs:{"field":_vm.post.data.sub_title}}),_vm._ssrNode(" <p>"+_vm._ssrEscape(_vm._s(_vm.formattedDate))+"</p>")],2),_vm._ssrNode(" "),_c('prismic-rich-text',{attrs:{"field":_vm.post.data.content}}),_vm._ssrNode(" "),_vm._ssrNode("<div class=\"card-footer\">","</div>",[_c('NuxtLink',{staticClass:"button",attrs:{"to":_vm.link,"prefetch":false}},[_vm._v("Read More")])],1)],2)],2)}
-var Postsvue_type_template_id_7bed1d58_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/Posts.vue?vue&type=template&id=f22e3ba6&
+var Postsvue_type_template_id_f22e3ba6_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"card"},[_vm._ssrNode("<div class=\"card-image\">","</div>",[_c('prismic-image',{attrs:{"field":_vm.post.data.image}})],1),_vm._ssrNode(" "),_vm._ssrNode("<div class=\"card-content\">","</div>",[_vm._ssrNode("<header>","</header>",[_c('prismic-rich-text',{staticClass:"title",attrs:{"field":_vm.post.data.title}}),_vm._ssrNode(" "),_c('prismic-rich-text',{staticClass:"subtitle",attrs:{"field":_vm.post.data.sub_title}}),_vm._ssrNode(" <p>"+_vm._ssrEscape(_vm._s(_vm.formattedDate))+"</p>")],2),_vm._ssrNode(" "),_c('prismic-rich-text',{attrs:{"field":_vm.post.data.content}}),_vm._ssrNode(" <div class=\"card-footer\"><a"+(_vm._ssrAttr("href",_vm.link))+" class=\"button\">Read More</a></div>")],2)],2)}
+var Postsvue_type_template_id_f22e3ba6_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./components/Posts.vue?vue&type=template&id=7bed1d58&
+// CONCATENATED MODULE: ./components/Posts.vue?vue&type=template&id=f22e3ba6&
 
 // EXTERNAL MODULE: ./plugins/link-resolver.js
 var link_resolver = __webpack_require__(5);
@@ -49,6 +49,12 @@ var link_resolver = __webpack_require__(5);
 /* harmony default export */ var Postsvue_type_script_lang_js_ = ({
   props: ["post"],
   name: "posts",
+  data: function () {
+    return {
+      link: "",
+      formattedDate: ""
+    };
+  },
 
   created() {
     this.link = Object(link_resolver["a" /* default */])(this.post), this.formattedDate = Intl.DateTimeFormat("en-US", {
@@ -74,8 +80,8 @@ var componentNormalizer = __webpack_require__(1);
 
 var component = Object(componentNormalizer["a" /* default */])(
   components_Postsvue_type_script_lang_js_,
-  Postsvue_type_template_id_7bed1d58_render,
-  Postsvue_type_template_id_7bed1d58_staticRenderFns,
+  Postsvue_type_template_id_f22e3ba6_render,
+  Postsvue_type_template_id_f22e3ba6_staticRenderFns,
   false,
   null,
   null,
