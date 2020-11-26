@@ -759,7 +759,7 @@ __webpack_require__(4).default("f52d43e0", content, true)
 var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(3);
 exports = ___CSS_LOADER_API_IMPORT___(false);
 // Module
-exports.push([module.i, "html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;text-size-adjust:100%}body{margin:0;font-family:adobe-garamond-pro,serif;font-size:1rem;font-weight:400;line-height:1.5;color:#000;text-align:left;background-color:#fff}h1{font-size:3rem}h2{font-family:adobe-garamond-pro,serif;font-size:2.5rem;font-weight:400;line-height:1.2;height:3rem}h3{font-size:1.75rem}h4{font-size:1.5rem}h5{font-size:1.25rem}h6{font-size:1rem}blockquote{margin:0 0 1rem}a{background-color:transparent;-webkit-text-decoration-skip:objects}a,a:hover{color:#000!important}a:hover{text-decoration:underline}header{display:block;padding:3% 0;margin-bottom:2rem;text-align:center}h1.title{margin:0;font-size:2rem!important;line-height:1;color:#000!important}a.navbar-item,h1.title{font-family:ltc-bodoni-175,serif;font-weight:400}a.navbar-item{font-size:1.25rem}.column.is-four-fifths.box,.column.is-three-quarters.box{padding:1.5rem!important;border:none;border-radius:0;box-shadow:none}article h1{margin-top:0;font-family:ltc-bodoni-175,serif;font-weight:500;font-size:2.5rem;line-height:1.5em;color:#000}.is-full{padding:0}.is-full h2{margin-top:0;font-family:ltc-bodoni-175,serif;font-weight:500;font-size:2rem;line-height:1.5em;color:#000}.is-full p,article p{margin-top:0;margin-bottom:.5em;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.2em;color:#000}.level-right>div>.button.is-light{margin-top:.5em;font-family:adobe-garamond-pro,serif;font-size:1.125rem;color:#000}.box.level{border:none;border-radius:0;box-shadow:none}.card{margin-bottom:2rem;border:none!important;border-bottom:1px solid #dbdbdb!important;border-radius:0!important;box-shadow:none!important}.card>header{padding:2% 0;border:none;border-radius:0;box-shadow:none}.card>header>.title>h1{font-size:2rem;line-height:1}.card>header>.subtitle>h3,.card>header>.title>h1{display:block;margin:0;font-family:ltc-bodoni-175,serif;font-weight:400;color:#000}.card>header>.subtitle>h3{font-size:1.5rem;line-height:2}.card>header>.subtitle>p{display:block;font-family:ltc-bodoni-175,serif;font-size:.8125rem;letter-spacing:.02em;line-height:1.5em;color:#212121!important}.card .card-image img{margin-bottom:1rem;width:100%!important}.card .card-content>div>p{display:none;margin-bottom:1.5em;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.2em;color:#000}.card .card-content>div>p:first-child{display:block}.card .card-full-content>div>p{margin:1.5em 0;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.2em;color:#000}.card .card-content>.card-footer,.card .card-full-content>.card-footer{border:none;font-family:adobe-garamond-pro,serif;color:#000}.card .card-content>.card-footer>.button,.card .card-full-content>.card-footer>.button{font-family:adobe-garamond-pro,serif;font-weight:500;font-size:1.25rem;text-decoration:none;color:#000}.card .card-full-content>.card-footer>.button{margin-bottom:2rem}.uk-nav-primary>li>a{font-family:ltc-bodoni-175,serif;font-weight:400;font-size:1.75rem;line-height:1.25em;color:#000}.hero{margin:0;padding:1.5rem 0}.hero,.hero img{width:100%}.container>.title>h1{display:block;padding:0;margin:0;font-family:ltc-bodoni-175,serif;font-weight:400;font-size:2rem;line-height:1;width:100%;color:#000;text-align:left}.container>.content>p{margin:1.5em 0;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.2em;color:#000}.step>p>a{padding:0;font-weight:500;font-size:1.25rem}.step>p,.step>p>a{margin:0;font-family:lato,sans-serif;line-height:1!important;color:#000;text-decoration:none;vertical-align:middle}.step>p{padding:1rem 0;font-weight:400;font-size:1.125rem}.step>p>a.button{padding-left:1rem;padding-right:1rem;background-color:#2793da;border:none!important;box-shadow:none!important;font-family:lato,sans-serif;font-feature-settings:\"smcp\";font-variant:small-caps;font-weight:600;font-size:1.25rem!important;color:#fff!important;text-decoration:none}.step h1.title{font-family:lato,sans-serif;font-size:3rem!important;font-weight:300;letter-spacing:.01em;line-height:1.5em}.info h2{margin:0;font-size:2rem}.info>div>p,.info h2{font-family:adobe-garamond-pro,serif;font-weight:400;line-height:1.2em;color:#000}.info>div>p{margin:1rem 0;font-size:1.25rem}.footer{padding:1rem 1.5rem;background:none}form{margin:2rem 0}form,form.offer{font-family:adobe-garamond-pro,serif!important}form.offer{margin:0 0 2rem}.label,.offer>h5{display:block;font-family:adobe-garamond-pro,serif!important;font-size:1.75rem;font-weight:500;color:#363636}.offer>h5,.offer h6{line-height:2}.offer h6{display:block;font-family:adobe-garamond-pro,serif!important;font-size:1.25rem;font-weight:600;color:#363636}.info>.offer>p{margin:0;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.25em;color:#000}.select,ol li,select{padding:0!important;border:1px solid #fff!important;font-family:adobe-garamond-pro,serif!important;font-size:1.25rem!important}.select select:not([multiple]){padding-right:2.5em!important}.select select option{font-family:adobe-garamond-pro,serif!important}input.offer{margin-top:1.5rem}.uk-close{color:#000!important}.uk-close:focus,.uk-close:hover{color:#222!important;outline:none}/ @media(max-width: 479px){.navbar-end a.navbar-item{display:inline-block;padding:0 .75rem;line-height:1}}@media (max-width:375px){.title>h1{font-size:2rem!important}}@media (max-width:320px){.title>h1{font-size:2rem!important}.navbar-end a.navbar-item{display:inline-block;padding:0 .75rem;line-height:1}}", ""]);
+exports.push([module.i, "html{font-family:sans-serif;line-height:1.15;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;text-size-adjust:100%}body{margin:0;font-family:adobe-garamond-pro,serif;font-size:1rem;font-weight:400;line-height:1.5;color:#000;text-align:left;background-color:#fff}h1{font-size:3rem}h2{font-family:adobe-garamond-pro,serif;font-size:2.5rem;font-weight:400;line-height:1.2;height:3rem}h3{font-size:1.75rem}h4{font-size:1.5rem}h5{font-size:1.25rem}h6{font-size:1rem}blockquote{margin:0 0 1rem}a{background-color:transparent;-webkit-text-decoration-skip:objects}a,a:hover{color:#000!important}a:hover{text-decoration:underline}header{display:block;padding:3% 0;margin-bottom:2rem;text-align:center}h1.title{margin:0;font-size:2rem!important;line-height:1;color:#000!important}a.navbar-item,h1.title{font-family:ltc-bodoni-175,serif;font-weight:400}a.navbar-item{font-size:1.25rem}.column.is-four-fifths.box,.column.is-three-quarters.box{padding:1.5rem!important;border:none;border-radius:0;box-shadow:none}article h1{margin-top:0;font-family:ltc-bodoni-175,serif;font-weight:500;font-size:2.5rem;line-height:1.5em;color:#000}.is-full{padding:0}.is-full h2{margin-top:0;font-family:ltc-bodoni-175,serif;font-weight:500;font-size:2rem;line-height:1.5em;color:#000}.is-full p,article p{margin-top:0;margin-bottom:.5em;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.2em;color:#000}.level-right>div>.button.is-light{margin-top:.5em;font-family:adobe-garamond-pro,serif;font-size:1.125rem;color:#000}.box.level{border:none;border-radius:0;box-shadow:none}.card{margin-bottom:2rem;border:none!important;border-bottom:1px solid #dbdbdb!important;border-radius:0!important;box-shadow:none!important}.card>header{padding:2% 0;border:none;border-radius:0;box-shadow:none}.card>header>.title>h1{font-size:2rem;line-height:1}.card>header>.subtitle>h3,.card>header>.title>h1{display:block;margin:0;font-family:ltc-bodoni-175,serif;font-weight:400;color:#000}.card>header>.subtitle>h3{font-size:1.5rem;line-height:2}.card>header>.subtitle>p{display:block;font-family:ltc-bodoni-175,serif;font-size:.8125rem;letter-spacing:.02em;line-height:1.5em;color:#212121!important}.card .card-image img{margin-bottom:1rem;width:100%!important}.card .card-content>div>p{display:none;margin-bottom:1.5em;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.2em;color:#000}.card .card-content>div>p:first-child{display:block}.card .card-full-content>div>p{margin:1.5em 0;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.2em;color:#000}.card .card-content>.card-footer,.card .card-full-content>.card-footer{border:none;font-family:adobe-garamond-pro,serif;color:#000}.card .card-content>.card-footer>.button,.card .card-full-content>.card-footer>.button{font-family:adobe-garamond-pro,serif;font-weight:500;font-size:1.25rem;text-decoration:none;color:#000}.card .card-full-content>.card-footer>.button{margin-bottom:2rem}.uk-nav-primary>li>a{font-family:ltc-bodoni-175,serif;font-weight:400;font-size:1.75rem;line-height:1.25em;color:#000}.hero{margin:0;padding:1.5rem 0}.hero,.hero img{width:100%}.container>.title>h1{display:block;padding:0;margin:0;font-family:ltc-bodoni-175,serif;font-weight:400;font-size:2rem;line-height:1;width:100%;color:#000;text-align:left}.container>.content>p{margin:1.5em 0;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.2em;color:#000}.step>p>a{padding:0;font-weight:500;font-size:1.25rem}.step>p,.step>p>a{margin:0;font-family:lato,sans-serif;line-height:1!important;color:#000;text-decoration:none;vertical-align:middle}.step>p{padding:1rem 0;font-weight:400;font-size:1.125rem}.step>p>a.button{padding-left:1rem;padding-right:1rem;background-color:#2793da;border:none!important;box-shadow:none!important;font-family:lato,sans-serif;font-feature-settings:\"smcp\";font-variant:small-caps;font-weight:600;font-size:1.25rem!important;color:#fff!important;text-decoration:none}.step h1.title{font-family:lato,sans-serif;font-size:3rem!important;font-weight:300;letter-spacing:.01em;line-height:1.5em}.info h2{margin:0;font-size:2rem}.info>div>div>p,.info>div>p,.info h2{font-family:adobe-garamond-pro,serif;font-weight:400;line-height:1.2em;color:#000}.info>div>div>p,.info>div>p{margin:1rem 0;font-size:1.25rem}.uk-form-label{font-weight:400!important;font-size:1.25rem!important;line-height:1.2em!important}.uk-form-label,button{font-family:adobe-garamond-pro,serif!important}button{font-weight:700!important}.footer{padding:1rem 1.5rem;background:none}form{margin:2rem 0}form,form.offer{font-family:adobe-garamond-pro,serif!important}form.offer{margin:0 0 2rem}.label,.offer>h5{display:block;font-family:adobe-garamond-pro,serif!important;font-size:1.75rem;font-weight:500;color:#363636}.offer>h5,.offer h6{line-height:2}.offer h6{display:block;font-family:adobe-garamond-pro,serif!important;font-size:1.25rem;font-weight:600;color:#363636}.info>.offer>p{margin:0;font-family:adobe-garamond-pro,serif;font-weight:400;font-size:1.25rem;line-height:1.25em;color:#000}.select,ol li,select{padding:0!important;border:1px solid #fff!important;font-family:adobe-garamond-pro,serif!important;font-size:1.25rem!important}.select select:not([multiple]){padding-right:2.5em!important}.select select option{font-family:adobe-garamond-pro,serif!important}input.offer{margin-top:1.5rem}.uk-close{color:#000!important}.uk-close:focus,.uk-close:hover{color:#222!important;outline:none}@media (max-width:479px){.navbar-end a.navbar-item{display:inline-block;padding:0 .75rem;line-height:1}}@media (max-width:375px){.title>h1{font-size:2rem!important}}@media (max-width:320px){.title>h1{font-size:2rem!important}.navbar-end a.navbar-item{display:inline-block;padding:0 .75rem;line-height:1}}", ""]);
 // Exports
 module.exports = exports;
 
@@ -2104,12 +2104,12 @@ var bulma = __webpack_require__(28);
 // EXTERNAL MODULE: ./assets/css/main.css
 var main = __webpack_require__(30);
 
-// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./layouts/default.vue?vue&type=template&id=bcf43bf8&
-var defaultvue_type_template_id_bcf43bf8_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"columns is-multiline is-centered"},[_vm._ssrNode("<div class=\"column is-four-fifths box\">","</div>",[_c('Header'),_vm._ssrNode(" "),_c('nuxt'),_vm._ssrNode(" "),_c('Bottom')],2)])}
-var defaultvue_type_template_id_bcf43bf8_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./layouts/default.vue?vue&type=template&id=0f2314c4&
+var defaultvue_type_template_id_0f2314c4_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"columns is-multiline is-centered"},[_vm._ssrNode("<div class=\"column is-four-fifths box\">","</div>",[_c('Header'),_vm._ssrNode(" "),_c('nuxt'),_vm._ssrNode(" "),_c('Bottom')],2)])}
+var defaultvue_type_template_id_0f2314c4_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./layouts/default.vue?vue&type=template&id=bcf43bf8&
+// CONCATENATED MODULE: ./layouts/default.vue?vue&type=template&id=0f2314c4&
 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/vue-loader/lib??vue-loader-options!./components/Header.vue?vue&type=template&id=bd1c528e&
 var Headervue_type_template_id_bd1c528e_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('header',[_vm._ssrNode("<h1 class=\"title\"><span>Amanda Graham MSc.</span></h1> <h2 class=\"subtitle\">Counselling Psychologist</h2> "),_c('Menu',{staticClass:"is-pulled-left"}),_vm._ssrNode(" "),_c('Social',{staticClass:"is-pulled-right"})],2)}
@@ -2342,8 +2342,8 @@ var Bottom_component = Object(componentNormalizer["a" /* default */])(
 
 var default_component = Object(componentNormalizer["a" /* default */])(
   layouts_defaultvue_type_script_lang_js_,
-  defaultvue_type_template_id_bcf43bf8_render,
-  defaultvue_type_template_id_bcf43bf8_staticRenderFns,
+  defaultvue_type_template_id_0f2314c4_render,
+  defaultvue_type_template_id_0f2314c4_staticRenderFns,
   false,
   null,
   null,
@@ -2423,16 +2423,6 @@ const layouts = {
 
   async mounted() {
     this.$loading = this.$refs.loading;
-
-    if (this.isPreview) {
-      if (this.$store && this.$store._actions.nuxtServerInit) {
-        this.$loading.start();
-        await this.$store.dispatch('nuxtServerInit', this.context);
-      }
-
-      await this.refresh();
-      this.$loading.finish();
-    }
   },
 
   watch: {
@@ -2541,34 +2531,6 @@ const layouts = {
       }
 
       return Promise.resolve(layouts['_' + layout]);
-    },
-
-    setPagePayload(payload) {
-      this._pagePayload = payload;
-      this._payloadFetchIndex = 0;
-    },
-
-    async fetchPayload(route) {
-      const {
-        staticAssetsBase
-      } = window.__NUXT__;
-      const base = (this.$router.options.base || '').replace(/\/+$/, '');
-
-      if (base && route.startsWith(base)) {
-        route = route.substr(base.length);
-      }
-
-      route = (route.replace(/\/+$/, '') || '/').split('?')[0].split('#')[0];
-      const src = urlJoin(base, staticAssetsBase, route, 'payload.js');
-
-      try {
-        const payload = await window.__NUXT_IMPORT__(decodeURI(route), encodeURI(src));
-        this.setPagePayload(payload);
-        return payload;
-      } catch (err) {
-        this.setPagePayload(false);
-        throw err;
-      }
     }
 
   },
@@ -2849,29 +2811,6 @@ _nuxt_middleware.prismic_preview = async ({
   const Components = getMatchedComponents(route);
   Components.forEach(Component => Component.options.static = false);
 };
-// CONCATENATED MODULE: ./.nuxt/crawler.plugin.4988788c.js
-
-
-if (true) {
-  if (!external_vue_default.a.__mixin_nuxt_links__) {
-    external_vue_default.a.__mixin_nuxt_links__ = true;
-    external_vue_default.a.mixin({
-      created() {
-        if (this.$options.name === 'NuxtLink' && this.to) {
-          const {
-            href
-          } = this.$router.resolve(this.to, this.$route, this.append);
-          const links = this.$ssrContext.links = this.$ssrContext.links || [];
-
-          if (!links.includes(href)) {
-            links.push(href);
-          }
-        }
-      }
-
-    });
-  }
-}
 // CONCATENATED MODULE: ./.nuxt/static.plugin.058d2a52.js
 
 
@@ -2989,8 +2928,6 @@ var meta_merge_default = /*#__PURE__*/__webpack_require__.n(meta_merge);
 
  // Source: ./prismic/middleware/prismic_preview.js (mode: 'all')
 
- // Source: ./crawler.plugin.4988788c.js (mode: 'all')
-
  // Source: ./static.plugin.058d2a52.js (mode: 'all')
 
  // Source: ./workbox.js (mode: 'client')
@@ -3058,6 +2995,18 @@ async function createApp(ssrContext, config = {}) {
         "hid": "description",
         "name": "description",
         "content": "Amanda Graham Counselling Psychologist"
+      }, {
+        "hid": "charset",
+        "charset": "utf-8"
+      }, {
+        "hid": "mobile-web-app-capable",
+        "name": "mobile-web-app-capable",
+        "content": "yes"
+      }, {
+        "hid": "og:type",
+        "name": "og:type",
+        "property": "og:type",
+        "content": "website"
       }],
       "link": [{
         "rel": "icon",
@@ -3069,6 +3018,17 @@ async function createApp(ssrContext, config = {}) {
       }, {
         "rel": "stylesheet",
         "href": "https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002Fuikit@3.5.8\u002Fdist\u002Fcss\u002Fuikit.min.css"
+      }, {
+        "rel": "shortcut icon",
+        "href": "\u002F_nuxt\u002Ficons\u002Ficon_64x64.3e961f.png"
+      }, {
+        "rel": "apple-touch-icon",
+        "href": "\u002F_nuxt\u002Ficons\u002Ficon_512x512.3e961f.png",
+        "sizes": "512x512"
+      }, {
+        "rel": "manifest",
+        "href": "\u002F_nuxt\u002Fmanifest.4c124621.json",
+        "hid": "manifest"
       }],
       "script": [{
         "src": "https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002Fuikit@3.5.8\u002Fdist\u002Fjs\u002Fuikit.min.js",
@@ -3077,7 +3037,10 @@ async function createApp(ssrContext, config = {}) {
         "src": "https:\u002F\u002Fcdn.jsdelivr.net\u002Fnpm\u002Fuikit@3.5.8\u002Fdist\u002Fjs\u002Fuikit-icons.min.js",
         "defer": true
       }],
-      "style": []
+      "style": [],
+      "htmlAttrs": {
+        "lang": "en"
+      }
     },
     router,
     nuxt: {
@@ -3213,10 +3176,6 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof /* Cannot get final name for export "default" in "./.nuxt/prismic/middleware/prismic_preview.js" (known exports: , known reexports: ) */ undefined === 'function') {
     await /* Cannot get final name for export "default" in "./.nuxt/prismic/middleware/prismic_preview.js" (known exports: , known reexports: ) */ undefined(app.context, inject);
-  }
-
-  if (typeof /* Cannot get final name for export "default" in "./.nuxt/crawler.plugin.4988788c.js" (known exports: , known reexports: ) */ undefined === 'function') {
-    await /* Cannot get final name for export "default" in "./.nuxt/crawler.plugin.4988788c.js" (known exports: , known reexports: ) */ undefined(app.context, inject);
   }
 
   if (typeof /* Cannot get final name for export "default" in "./.nuxt/static.plugin.058d2a52.js" (known exports: , known reexports: ) */ undefined === 'function') {

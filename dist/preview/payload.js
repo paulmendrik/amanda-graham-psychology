@@ -1,1 +1,1 @@
-window.__NUXT__={staticAssetsBase:"/_nuxt/static/1606223370",layout:"default",error:null,serverRendered:!0,routePath:"/preview",config:{}}
+window.__NUXT__={layout:"default",data:[{}],fetch:[],error:null,serverRendered:!0,routePath:"/preview",config:{}}

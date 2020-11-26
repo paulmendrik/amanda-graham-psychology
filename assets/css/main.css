@@ -325,13 +325,26 @@ article p,
   color: #000;
 }
 
-.info > div > p {
+.info > div > p,
+.info > div > div > p {
   margin: 1rem 0;
   font-family: adobe-garamond-pro, serif;
   font-weight: 400;
   font-size: 1.25rem;
   line-height: 1.2em;
   color: #000;
+}
+
+.uk-form-label {
+  font-family: adobe-garamond-pro, serif !important;
+  font-weight: 400 !important;
+  font-size: 1.25rem !important;
+  line-height: 1.2em !important;
+}
+
+button {
+  font-family: adobe-garamond-pro, serif !important;
+  font-weight: bold !important;
 }
 
 .footer {
@@ -419,8 +432,11 @@ input.offer {
 .uk-close:hover, .uk-close:focus {
   color: #222 !important;
   outline: none;
-}/
+}
 
+
+form {
+}
 
 
 @media (max-width: 479px) {

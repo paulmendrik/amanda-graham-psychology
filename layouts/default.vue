@@ -1,11 +1,11 @@
 <template>
-  <div class="columns is-multiline is-centered">
-    <div class="column is-four-fifths box">
-      <Header />
-      <nuxt />
-      <Bottom />
-    </div>
-  </div>
+<div class="columns is-multiline is-centered">
+<div class="column is-four-fifths box">
+<Header />
+<nuxt />
+<Bottom />
+</div>
+</div>
 </template>
 
 <script>
